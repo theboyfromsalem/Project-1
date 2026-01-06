@@ -202,7 +202,7 @@ phpinfo();
 
 - When you are finished, save and close the file, refresh the page and you will see a page similar to this:
 
-![alt text](Images/php-page.png)
+![alt text](<Images/WhatsApp Image 2026-01-06 at 12.09.40 AM.jpeg>)
 
 
 
